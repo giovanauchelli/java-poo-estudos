@@ -1,0 +1,28 @@
+package Animal;
+public class Reptil extends Animal{
+    private String corEscama;
+
+    public String getCorEscama(){
+        return this.corEscama;
+    }
+    public void setCorEscama(String e){
+        this.corEscama = e;
+    }
+
+    @Override
+    public void locomover(){
+        System.out.println("Rastejando");
+    }
+
+    @Override
+    public void alimentar(){
+        System.out.println("Comendo vegetais");
+    }
+
+    @Override
+    public void emitirSom(){
+        System.out.println("Som de reptil");
+    }
+
+
+}
