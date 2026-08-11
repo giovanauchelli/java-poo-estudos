@@ -9,6 +9,7 @@ Repositório com os exercícios e projetos desenvolvidos durante meus estudos de
 - Herança
 - Polimorfismo
 - Projeto Final
+- Exercícios desenvolvidos em sala  
 
 ## Estrutura
 
@@ -18,6 +19,7 @@ Repositório com os exercícios e projetos desenvolvidos durante meus estudos de
 03-heranca/
 04-polimorfismo/
 05-projeto-final/
+06-exercicios-professor/
 ```
 
 ## Tecnologias
